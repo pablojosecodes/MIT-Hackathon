@@ -1,0 +1,6 @@
+[submodule "AloneTogether"]
+	path = AloneTogether
+	url = git@github.com:HackXR-2023/AloneTogether.git
+[submodule "image-processing"]
+	path = image-processing
+	url = git@github.com:HackXR-2023/image-processing.git
